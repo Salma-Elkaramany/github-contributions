@@ -1,6 +1,6 @@
 # github-contributions
-Auto-fills my github contibutions 
-Just a fun project :) 
+
+Just a fun project :) Auto-fills my github contibutions 
 
 
 
